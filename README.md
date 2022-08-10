@@ -16,24 +16,23 @@ defaulters in the data set
 
 
 ## General Information
-- Provide general information about your project here.
+This project belongs to Finance and Banking domain. Lending club provides the loan/credit
+to the qualified/accepted applicant. They run the risk of credit loss in other words
+the applicant doesnt pay the required loan amount back to Lending club. This is one of the 
+high loss that these domains experience.
+ 
+- Project background:
 
 Financial institution(Lending club) wishes to reduce the credit loss. Data from the
 previous granted/approved applicants is provided with may dimensions and values.
 
-To Identify the indicators of potential defaulters from the behavior of the
-defaulters in the data set 
-
-- What is the background of your project
-This project belongs to Finance and Banking domain.
-
-- What is the business probem that your project is trying to solve?
+- Business problem:
 
 Identify the indicators of potential defaulters from the behavior of the
 defaulters in the data set.
 Findings or indicators may be then used by institution to reduce the credit loss
 
-- What is the dataset that is being used?
+- Dataset:
 
 LendingClub Dataset is being used.
 
